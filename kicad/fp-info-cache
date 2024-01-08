@@ -1,0 +1,64 @@
+14546137856153
+imm_lib
+E01-ML01SP4
+
+
+0
+10
+10
+imm_lib
+E72-2G4M20S1E
+
+
+0
+34
+34
+imm_lib
+ESP32_mini
+
+
+0
+40
+40
+imm_lib
+LED_1206_3216Metric
+LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+imm_lib
+PinSocket_1x08_P2.54mm_Horizontal_SMD
+Through hole angled socket strip, 1x06, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
+Through hole angled socket strip THT 1x06 2.54mm single row
+0
+8
+8
+imm_lib
+PinSocket_1x09_P2.54mm_Horizontal_SMD
+Through hole angled socket strip, 1x06, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
+Through hole angled socket strip THT 1x06 2.54mm single row
+0
+9
+9
+imm_lib
+PinSocket_1x10_P2.54mm_Horizontal_SMD
+Through hole angled socket strip, 1x06, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
+Through hole angled socket strip THT 1x06 2.54mm single row
+0
+10
+10
+imm_lib
+SM-011
+
+
+0
+24
+24
+imm_lib
+XY-017_UART_RS485
+
+
+0
+14
+7
