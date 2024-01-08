@@ -12,4 +12,4 @@ Number addressable leds: 4
 
 Led Red (or addr): 4
 
-![Image alt](https://github.com/immortalserg/SLS_EGLO_92964/raw/image.jpg)
+![Image alt](https://github.com/immortalserg/SLS_EGLO_92964/blob/main/image.jpg)
