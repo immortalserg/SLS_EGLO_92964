@@ -1,0 +1,7 @@
+{"version":"2023.12.31d7","date":"11:34:29 23.02.2025","MAC":"7C:9E:BD:30:75:D4"}
+{"name":"/config.json","size":1262}
+{"fw_ver":"2023.12.31d7","domain_name":"sls75D4","wifi_ssid":"OpenWrt","wifi_pwd":"1730117301","net":{"dhcp":true,"static":{"ip":"192.168.1.50","gw":"192.168.1.1","mask":"255.255.255.0","dns":"8.8.8.8"}},"mqtt":{"enable":false,"retlwt":false},"mqtt_server":"mqtt.dioty.co","mqtt_port":1883,"mqtt_user":"sls75d4@gmail.com","mqtt_pwd":"56488468","mqtt_prefix":"/sls75d4@gmail.com/sls","mqtt_retain":false,"regional":{"lat":49.62075,"lon":6.057141},"time":{"enable":true,"ntp":"pool.ntp.org","tz":"UTC-2:00"},"web_auth":{"enable":false,"sec_api":false,"user":"admin","password":"admin"},"audio":{"extdac":false,"pin_mute":32,"pin_mute_invert":false},"cloud":{"enable":false,"token":"33b889279eaf14221c4100b9c9b76543","options":0},"hw":{"zigbee":{"rx":22,"tx":23,"rst":255,"bsl":255,"channel":11,"pan_id":4660,"mqtt_raw":false,"mqtt_json":true,"mqtt_attr":true,"use_fn":true,"cache_states":true,"clear_states":false,"opt_pl":false,"fn_pl":false,"trnum_pl":false,"model_pl":false,"lastseen_pl":false},"btn_mode":33,"btn_mode_pullup":true,"led":{"red":4,"green":255,"blue":255,"count":4},"i2c":{"sda":255,"scl":255},"serial":{"s1rx":22,"s1tx":23,"s2rx":255,"s2tx":255,"s0baud":115200,"s1baud":115200,"s2baud":115200,"s1cfg":28,"s2cfg":28}},"z_bridge":{"enable":false}}
+{"name":"/devices.json","size":2}
+{}
+{"name":"/groups.json","size":4}
+null
