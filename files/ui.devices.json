@@ -1,0 +1,12 @@
+[
+{"id": 1, "room_id":0, "ieee":"object", "prop":"gateway.security.status", "title":"Режим охраны", "type":"switch"},
+{"id": 2, "room_id":0, "ieee":"object", "prop":"gateway.eco.status", "title":"Режим экономии", "type":"switch"},
+{"id": 3, "room_id":0, "ieee":"object", "prop":"gateway.motion.status", "title":"Режим датчиков движения", "type":"custom-switch", "values":[{"name":"AUTO", "toSet":"auto"},{"name":"ECO", "toSet":"eco"},{"name":"OFF", "toSet":"off"}]},
+{"id": 11, "room_id":1, "ieee":"0x00158D00023D2E19", "prop":"temperature", "title":"Температура", "type":"sensor", "icon":"fa-thermometer-full", "unit":"°C"},
+{"id": 12, "room_id":1, "ieee":"0x00158D00023D2E19", "prop":"humidity", "title":"Влажность", "type":"sensor", "icon":"fa-tint", "unit":"%"},
+{"id": 13, "room_id":1, "ieee":"0x00158D0004863605", "prop":"state_right", "title":"Свет", "type":"switch"},
+{"id": 14, "room_id":1, "ieee":"0x00158D000396432E", "prop":"occupancy", "title":"Движение", "type":"bin-sensor", "icon":"fa-male", "unit":"%"},
+{"id": 21, "room_id":2, "ieee":"0x00124B001D43CE20", "prop":"state", "title":"Подсветка шкафа", "type":"switch"},
+{"id": 22, "room_id":2, "ieee":"0x00124B001D43CE20", "prop":"brightness", "title":"Яркость подсветки шкафа", "type":"dimmer", "min":0, "max":255},
+{"id": 23, "room_id":2, "ieee":"0x00124B001D43CE20", "prop":"brightness", "title":"Яркость подсветки шкафа", "type":"custom-switch", "values":[{"name":"0 %", "toSet":0},{"name":"30 %", "toSet":70},{"name":"60 %", "toSet":140},{"name":"100 %", "toSet":255}]}
+]
